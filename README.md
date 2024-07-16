@@ -16,9 +16,9 @@ The original idea for the Flappy Birds scene looks like this:
 
 I've oriented on other Flappy Bird clones, however I'm not into stealing but I'm definitely into trying new things out, so I did my own "art" here. :-)
 
-|          Background          |           Bottom Line           |
-|:----------------------------:|:-------------------------------:|
-| ![Background](images/bg.png) | ![Bottom Line](images/base.png) |
+|                                               Background                                                |           Bottom Line           |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------:|
+| <img src="https://raw.githubusercontent.com/torbendury/ai-flappy-bird/main/images/bg.png" height="300"> | ![Bottom Line](images/base.png) |
 
 |       Bird Movements       |                            |                            |
 |:--------------------------:|:--------------------------:|:--------------------------:|
